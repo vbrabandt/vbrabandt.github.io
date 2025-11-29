@@ -35,7 +35,11 @@ This repository is automatically updated with new releases from the theme reposi
 
 ## License
 
-This work is published under [MIT][mit] License.
+The source code for this website is licensed under the [MIT][mit] License.
+
+The content of this website (blog posts) is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+
+All images and media are **All Rights Reserved** and may not be used without permission.
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
