@@ -39,7 +39,7 @@ The source code for this website is licensed under the [MIT][mit] License.
 
 The content of this website (blog posts) is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
 
-All images and media are **All Rights Reserved** and may not be used without permission.
+All images and media are licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>.
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
