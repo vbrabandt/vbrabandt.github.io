@@ -1,5 +1,5 @@
 ---
-title: Welcome to My Blog! (Draft)
+title: Welcome to My Blog!
 date: 2025-11-29 10:00:00 +0000
 categories: [Life]
 tags: [welcome, introduction, meta]
