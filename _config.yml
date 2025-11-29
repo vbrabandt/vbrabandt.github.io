@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: VBrabandt's Blog # the main title
+title: Vincent's Stupid Blog # the main title
 
 tagline: Tech, Gaming, Music, Film, and Life # it will display as the subtitle
 
@@ -30,20 +30,22 @@ github:
   username: vbrabandt2005 # change to your GitHub username
 
 twitter:
-  username: # change to your Twitter username
+  username: BrabandtVincent # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: VBrabandt
+  name: Vincent
   email: # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/vbrabandt2005 # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://twitter.com/username # change to your Twitter homepage
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://github.com/vbrabandt2005
+    - https://x.com/BrabandtVincent
+    - https://www.instagram.com/vbrabandt2005
+    - https://www.threads.com/@vbrabandt2005
+    - https://bsky.app/profile/vbrabandt.bsky.social
+    - https://mastodon.social/@vbrabandt
+    - https://www.youtube.com/@vbrabandt
 
 # Site Verification Settings
 webmaster_verifications:
