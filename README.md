@@ -9,6 +9,18 @@ My personal blog where I write about stuff.
 
 Built with [jekyll-theme-chirpy][chirpy] by [cotes2020].
 
+## Why did I create this site?
+
+I intended to create this site as an experiment and as a way to express myself without relying on social media, most social media sites in my opinion are no longer designed for long posts anymore.
+
+>TLDR; basically it's a personal blog
+
+## Why did I choose Github pages + Jekyll instead of another service?
+
+Well firstly, I confess I can't afford a personal domain yet, so that explains why I'm using Github pages (plus I really like the openness of Github/Open-source).
+
+I admit I have no experience at UI design (& I'm sorry but I don't want to ever get into HTML/CSS), I just want a simple blog style site with a minimalist kinda feel, but I found Squarespace/Wix to be designed more for portfolios and businesses, I once had a Wordpress site, but I didn't enjoy it's editor.
+
 ## License
 
 The source code for this website is licensed under the [MIT][mit] License.
