@@ -3,7 +3,7 @@
 [![Chirpy Version](https://img.shields.io/github/package-json/dependency-version/vbrabandt2005/vbrabandt.github.io/jekyll-theme-chirpy?filename=Gemfile)][repo]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/vbrabandt2005/vbrabandt.github.io.svg?color=blue)][mit]
 
-🌐 **Live Site:** [vbrabandt2005.github.io](https://vbrabandt.github.io)
+🌐 **Live Site:** [vbrabandt.github.io](https://vbrabandt.github.io)
 
 My personal blog where I write about stuff.
 
