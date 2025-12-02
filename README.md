@@ -1,9 +1,9 @@
 # Vincent's Blog Repository
 
-[![Chirpy Version](https://img.shields.io/github/package-json/dependency-version/vbrabandt2005/vbrabandt2005.github.io/jekyll-theme-chirpy?filename=Gemfile)][repo]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/vbrabandt2005/vbrabandt2005.github.io.svg?color=blue)][mit]
+[![Chirpy Version](https://img.shields.io/github/package-json/dependency-version/vbrabandt2005/vbrabandt.github.io/jekyll-theme-chirpy?filename=Gemfile)][repo]&nbsp;
+[![GitHub license](https://img.shields.io/github/license/vbrabandt2005/vbrabandt.github.io.svg?color=blue)][mit]
 
-🌐 **Live Site:** [vbrabandt2005.github.io](https://vbrabandt2005.github.io)
+🌐 **Live Site:** [vbrabandt2005.github.io](https://vbrabandt.github.io)
 
 My personal blog where I write about stuff.
 
@@ -29,7 +29,7 @@ The content of this website (blog posts) is licensed under [CC BY 4.0](https://c
 
 All images and media are licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-[repo]: https://github.com/vbrabandt2005/vbrabandt2005.github.io
+[repo]: https://github.com/vbrabandt/vbrabandt.github.io
 [cotes2020]: https://github.com/cotes2020/
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[mit]: https://github.com/vbrabandt2005/vbrabandt2005.github.io/blob/main/LICENSE
+[mit]: https://github.com/vbrabandt/vbrabandt.github.io/blob/main/LICENSE
