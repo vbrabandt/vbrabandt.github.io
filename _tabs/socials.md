@@ -9,7 +9,7 @@ Here are all the places you can find me on the web:
 
 ## Social Media
 
-- <i class="fab fa-github"></i> [GitHub](https://github.com/vbrabandt2005)
+- <i class="fab fa-github"></i> [GitHub](https://github.com/vbrabandt)
 - <i class="fa-brands fa-x-twitter"></i> [X/Twitter](https://x.com/BrabandtVincent)
 - <i class="fab fa-instagram"></i> [Instagram](https://www.instagram.com/vbrabandt2005)
 - <i class="fa-brands fa-threads"></i> [Threads](https://www.threads.com/@vbrabandt2005)

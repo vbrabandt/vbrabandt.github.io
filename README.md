@@ -1,7 +1,7 @@
 # Vincent's Blog Repository
 
-[![Chirpy Version](https://img.shields.io/github/package-json/dependency-version/vbrabandt2005/vbrabandt.github.io/jekyll-theme-chirpy?filename=Gemfile)][repo]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/vbrabandt2005/vbrabandt.github.io.svg?color=blue)][mit]
+[![Chirpy Version](https://img.shields.io/github/package-json/dependency-version/vbrabandt/vbrabandt.github.io/jekyll-theme-chirpy?filename=Gemfile)][repo]&nbsp;
+[![GitHub license](https://img.shields.io/github/license/vbrabandt/vbrabandt.github.io.svg?color=blue)][mit]
 
 🌐 **Live Site:** [vbrabandt.github.io](https://vbrabandt.github.io)
 
