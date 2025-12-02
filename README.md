@@ -23,11 +23,16 @@ I admit I have no experience at UI design (& I'm sorry but I don't want to ever 
 
 ## License
 
-The source code for this website is licensed under the [MIT][mit] License.
+**Source Code:**  
+Licensed under the [MIT][mit] License, respecting and following the original [Chirpy theme][chirpy] license.
 
-The content of this website (blog posts) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+**Blog Post Content:**  
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — you can share and adapt with attribution.
 
-All images and media are licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+**Images and Media:**  
+Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — you can share with attribution, but no commercial use or modifications.
+
+> **Note:** These are the default licenses for this site. Specific content may use different licenses when necessary (e.g., shared music, third-party content, or other copyrighted materials). Individual posts or media will specify their own licensing terms if they differ from the defaults above.
 
 [repo]: https://github.com/vbrabandt/vbrabandt.github.io
 [cotes2020]: https://github.com/cotes2020/
