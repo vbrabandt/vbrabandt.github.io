@@ -1,7 +1,5 @@
 # Vincent's Blog Repository
 
-[![GitHub license](https://img.shields.io/github/license/vbrabandt/vbrabandt.github.io.svg?color=blue)][mit]
-
 🌐 **Live Site:** [vbrabandt.github.io](https://vbrabandt.github.io)
 
 My personal blog where I write about stuff.
