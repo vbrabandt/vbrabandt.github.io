@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to my new site!
-date: 2024-05-11 17:25 +0200
+date: 2025-11-02 17:25 +0200
 categories: [Websites, Personal Websites]
 tags: [websites, blogs, personal]
 ---
