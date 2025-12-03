@@ -16,7 +16,3 @@ Here are all the places you can find me on the web:
 - <i class="fa-brands fa-bluesky"></i> [Bluesky](https://bsky.app/profile/vbrabandt.bsky.social)
 - <i class="fab fa-mastodon"></i> [Mastodon](https://mastodon.social/@vbrabandt)
 - <i class="fab fa-youtube"></i> [YouTube](https://www.youtube.com/@vbrabandt)
-
-## Subscribe
-
-- <i class="fas fa-rss"></i> [RSS Feed](/feed.xml)
