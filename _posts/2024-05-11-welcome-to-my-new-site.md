@@ -16,7 +16,7 @@ So I decided to redo everything and start from scratch. There will be old posts 
 
 ### Who am I?
 
-I'm Vincent Wutthisit Brabandt, a 20-year-old with several interesting hobbies and interests (and perhaps questionable life choices).
+I'm Vincent Wutthisit Brabandt, a 20 year-old with several interesting hobbies and interests (and perhaps questionable life choices).
 
 Some of my interests include:
 
@@ -28,9 +28,9 @@ Some of my interests include:
 
 ### Why did I create this site?
 
-I created this site as an experiment and as a way to express myself without relying on social media. Most social media platforms in my opinion are no longer designed for long-form content anymore—they prioritize short, snappy posts that encourage endless scrolling rather than thoughtful reading.
+I created this site as an experiment and as a way to express myself without relying on social media. Most social media platforms in my opinion are no longer designed for long-form content anymore as they now usually prioritize short posts.
 
-I wanted a space where I could write longer pieces, share my thoughts in detail, and not be constrained by character limits or algorithmic feeds.
+I wanted a place where I could write longer documentations, share my thoughts, and not be constrained by character limits or the algorithm.
 
 ### What to expect?
 
@@ -75,11 +75,11 @@ My plan is to maintain this blog on GitHub Pages, and one day I might create a s
 
 This blog includes:
 
-- **Privacy-Friendly Analytics** - Using [GoatCounter](https://www.goatcounter.com/) to track page views without cookies or invasive tracking
-- **Comment System** - Powered by [Giscus](https://giscus.app/), which uses GitHub Discussions (so you'll need a GitHub account to comment)
+- **Privacy-Friendly Analytics** - Using [GoatCounter](https://www.goatcounter.com/) to track page views
+- **Comment System** - Powered by [Giscus](https://giscus.app/), which uses GitHub Discussions
 - **Progressive Web App (PWA)** - You can install this blog as an app on your device
 - **Dark/Light Mode** - Theme automatically follows your system preference, with a manual toggle available
-- **RSS Feed** - Subscribe to get updates when I post new content
+- **RSS Feed** - Ability to Subscribe to an automatic feed
 
 ### Are things here open-source?
 

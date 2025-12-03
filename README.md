@@ -8,13 +8,12 @@ My personal blog where I write about stuff.
 
 Built with [jekyll-theme-chirpy][chirpy] by [cotes2020].
 
-## Tech Stack
+## Site Features
 
 - **Platform:** GitHub Pages + Jekyll
 - **Theme:** Chirpy (`jekyll-theme-chirpy`)
 - **Comments:** Giscus (GitHub Discussions)
-- **Analytics:** GoatCounter (privacy-friendly, no cookies)
-- **PWA:** Installable site with offline cache
+- **Analytics:** GoatCounter
 - **Content:** Markdown, versioned with Git
 
 ## Why did I create this site?
