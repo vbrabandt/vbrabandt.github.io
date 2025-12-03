@@ -79,7 +79,6 @@ This blog includes:
 - **Comment System** - Powered by [Giscus](https://giscus.app/), which uses GitHub Discussions
 - **Progressive Web App (PWA)** - You can install this blog as an app on your device
 - **Dark/Light Mode** - Theme automatically follows your system preference, with a manual toggle available
-- **RSS Feed** - Ability to Subscribe to an automatic feed
 
 ### Are things here open-source?
 
