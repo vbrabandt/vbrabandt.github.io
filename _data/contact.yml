@@ -3,9 +3,6 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
-
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
@@ -13,6 +10,10 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
+- type: youtube
+  icon: "fab fa-youtube"
+  url: "https://www.youtube.com/@vbrabandt"
 
 - type: instagram
   icon: "fab fa-instagram"
@@ -22,6 +23,9 @@
   icon: "fa-brands fa-threads"
   url: "https://www.threads.com/@vbrabandt2005"
 
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
+
 - type: bluesky
   icon: "fa-brands fa-bluesky"
   url: "https://bsky.app/profile/vbrabandt.bsky.social"
@@ -29,7 +33,3 @@
 - type: mastodon
   icon: "fab fa-mastodon"
   url: "https://mastodon.social/@vbrabandt"
-
-- type: youtube
-  icon: "fab fa-youtube"
-  url: "https://www.youtube.com/@vbrabandt"
