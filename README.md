@@ -1,6 +1,5 @@
 # Vincent's Blog Repository
 
-[![Chirpy Version](https://img.shields.io/github/package-json/dependency-version/vbrabandt/vbrabandt.github.io/jekyll-theme-chirpy?filename=Gemfile)][repo]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/vbrabandt/vbrabandt.github.io.svg?color=blue)][mit]
 
 🌐 **Live Site:** [vbrabandt.github.io](https://vbrabandt.github.io)
@@ -8,6 +7,15 @@
 My personal blog where I write about stuff.
 
 Built with [jekyll-theme-chirpy][chirpy] by [cotes2020].
+
+## Tech Stack
+
+- **Platform:** GitHub Pages + Jekyll
+- **Theme:** Chirpy (`jekyll-theme-chirpy`)
+- **Comments:** Giscus (GitHub Discussions)
+- **Analytics:** GoatCounter (privacy-friendly, no cookies)
+- **PWA:** Installable site with offline cache
+- **Content:** Markdown, versioned with Git
 
 ## Why did I create this site?
 
@@ -34,7 +42,6 @@ Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4
 
 > **Note:** These are the default licenses for this site. Specific content may use different licenses when necessary (e.g., shared music, third-party content, or other copyrighted materials). Individual posts or media will specify their own licensing terms if they differ from the defaults above.
 
-[repo]: https://github.com/vbrabandt/vbrabandt.github.io
 [cotes2020]: https://github.com/cotes2020/
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [mit]: https://github.com/vbrabandt/vbrabandt.github.io/blob/main/LICENSE
