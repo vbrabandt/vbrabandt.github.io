@@ -127,7 +127,7 @@ comments:
     category: Announcements
     category_id: DIC_kwDOQfIo084CzUZG
     mapping: pathname # optional, default to 'pathname'
-    strict: 1 # optional, default to '0' - Set to 1 to only load existing discussions
+    strict: 0 # optional, default to '0' - Set to 1 to only load existing discussions
     input_position: top # optional, default to 'bottom'
     lang: en # optional, default to the value of `site.lang`
     reactions_enabled: 1 # optional, default to the value of `1`
