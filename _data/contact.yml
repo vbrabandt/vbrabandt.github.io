@@ -1,19 +1,11 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
-
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
-
-- type: youtube
-  icon: "fab fa-youtube"
-  url: "https://www.youtube.com/@vbrabandt"
+- type: github
+  icon: "fab fa-github"
 
 - type: instagram
   icon: "fab fa-instagram"
@@ -33,3 +25,11 @@
 - type: mastodon
   icon: "fab fa-mastodon"
   url: "https://mastodon.social/@vbrabandt"
+
+- type: youtube
+  icon: "fab fa-youtube"
+  url: "https://www.youtube.com/@vbrabandt"
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
