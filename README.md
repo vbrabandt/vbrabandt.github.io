@@ -8,10 +8,10 @@ Built with [jekyll-theme-chirpy][chirpy] by [cotes2020].
 
 ## Site Features
 
-- **Platform:** GitHub Pages + Jekyll
-- **Theme:** Chirpy (`jekyll-theme-chirpy`)
-- **Comments:** Giscus (GitHub Discussions)
-- **Analytics:** GoatCounter
+- **Platform:** [GitHub Pages](https://pages.github.com/) + [Jekyll](https://jekyllrb.com/)
+- **Theme:** [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy/) (`jekyll-theme-chirpy`)
+- **Comments:** [Giscus](https://giscus.app/) (GitHub Discussions)
+- **Analytics:** [GoatCounter](https://www.goatcounter.com/)
 - **Content:** Markdown, versioned with Git
 
 ## Why did I create this site?
